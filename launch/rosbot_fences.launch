@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<launch>
+  <node name="rosbot_fences" pkg="rosbot_fences" type="model_fences.py" output="screen">
+  </node>
+</launch>
