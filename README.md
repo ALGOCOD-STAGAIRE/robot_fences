@@ -111,7 +111,7 @@ Other errors are easy to find in google, such as setting up libraries.
 
 * **Topic 3 **String retrun predection of  "Fence  Ripped"
 [Capture d’écran de 2022-03-03 15-59-50.png](https://trello.com/1/cards/621f5a2ff22f9e08343b5b70/attachments/6220d955ce45d95232907ffa/download/Capture_d%E2%80%99%C3%A9cran_de_2022-03-03_15-59-50.png) 
-**Note**: we can see that in subject 3 there is no data because most of the images are not ripped.
+* **Note**: we can see that in subject 3 there is no data because most of the images are not ripped.
 
 
 
